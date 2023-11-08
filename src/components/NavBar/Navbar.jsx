@@ -1,35 +1,31 @@
+import { Link } from "react-router-dom";
 import "./styles.css";
-import { Button } from 'react-bootstrap';
-import CartWidget from '../CartWidget/CartWidget';
 
 const Navbar = () => {
-return (
+  return (
     <div className="navbar-container">
-    <div>
-        <img alt="Joystick" src={"./images/joystick-logo.png"} width={'150px'}/>
-    </div>
-    <div>
+      <img className="logo" src="../images/joystick-logo.png" alt="aaaa" />
+      <nav>
         <ul className="list-container">
-            <li>
-                <button className='category-button'>
-                    PC
-                </button>
-            </li>
-            <li>
-                <button className='category-button'>
-                    Xbox
-                </button>
-            </li>
-            <li>
-                <button className='category-button'>
-                    PlayStation
-                </button>
-            </li>
+          <li>
+            <Link to={"/category/pc"} className="navbar-button">
+              PC
+            </Link>
+          </li>
+          <li>
+            <Link to={"/category/playstation"} className="navbar-button">
+              PlayStation
+            </Link>
+          </li>
+          <li>
+            <Link to={"/category/xbox"} className="navbar-button">
+              XBOX
+            </Link>
+          </li>
         </ul>
+      </nav>
     </div>
-    <CartWidget />
-    </div>
-);
+  );
 };
 
 export default Navbar;
