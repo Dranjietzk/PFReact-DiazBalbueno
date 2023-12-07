@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "titulo": "Horizon: Forbidden West",
+        "descripcion": "La historia de este videojuego sigue los pasos de Aloy mientras avanza hacia el oeste en una América de un futuro lejano para enfrentar una frontera majestuosa, pero amenazante, en la que se enfrentará a máquinas asombrosas y nuevas amenazas misteriosas.",
+        "categoria": "PlayStation",
+        "imagen": "https://media.tycsports.com/files/2021/05/04/277317/horizon-forbidden-west_862x485.jpg",
+        "precio": 50000,
+        "stock": 18
+    },
+    {
+        "id": 2,
+        "titulo": "Ghost of Tsushima: Director's Cut",
+        "descripcion": "Ghost of Tsushima es un videojuego de acción y aventura en mundo abierto protagonizado por un samurai maltratado, luchando contra probabilidades abrumadoras durante la invasión a Japón del ejército mongol en el año 1274. Desarrollado en exclusiva para Ps4 por Sucker Punch, autores de la serie inFAMOUS, Ghost of Tsushima garantiza hacer un buen trato de su narrativa así como las habilidades de tal mítica figura guerrera durante el Japón feudal.",
+        "categoria": "PlayStation",
+        "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2322/ZSrFeb6XkqKiq2PZKWg20yfe.jpg",
+        "precio": 40000,
+        "stock": 3
+    },
+    {
+        "id": 3,
+        "titulo": "Hogwarts Legacy",
+        "descripcion": "Hogwarts Legacy es un RPG de acción en un mundo abierto ambientado en el universo de los libros de Harry Potter. Embárcate en una aventura que te llevará por lugares nuevos y conocidos, mientras descubres animales mágicos, personalizas tu personaje, elaboras pociones, dominas hechizos, mejoras tus talentos y te conviertes en el mago que siempre has querido ser.",
+        "categoria": "XBOX",
+        "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202208/0921/dR9KJAKDW2izPbptHQbh3rnj.png",
+        "precio": 37000,
+        "stock": 40
+    },
+    {
+        "id": 4,
+        "titulo": "Gears 5",
+        "descripcion": "De una de las sagas más aclamadas de los juegos, la famosa campaña de Gears 5 y el modo multijugador renovado están optimizados para la Xbox Series X y Xbox Series S.",
+        "categoria": "XBOX",
+        "imagen": "https://cdn.akamai.steamstatic.com/steam/apps/1097840/header.jpg",
+        "precio": 24000,
+        "stock": 32
+    },
+    {
+        "id": 5,
+        "titulo": "The Legend of Zelda: Breath of the Wild",
+        "descripcion": "Olvida todo lo que sabes acerca de los juegos de la serie The Legend of Zelda. Explora y descubre un mundo lleno de aventuras en The Legend of Zelda: Breath of the Wild, una nueva saga que rompe los esquemas de la aclamada serie. Viaja a través de praderas y bosques, y alcanza cimas de montañas mientras descubres cómo cayó en la ruina el reino de Hyrule en esta emocionante aventura al aire libre.",
+        "categoria": "Nintendo",
+        "imagen": "https://i.blogs.es/15da49/zelda00/1366_2000.jpg",
+        "precio": 46000,
+        "stock": 52
+    },
+    {
+        "id": 6,
+        "titulo": "The Legend of Zelda: Tears of the Kingdom",
+        "descripcion": "En esta secuela del juego The Legend of Zelda: Breath of the Wild, decidirás tu propio camino a través de los extensos paisajes de Hyrule y las islas que flotan en los vastos cielos. ¿Podrás aprovechar el poder de las nuevas habilidades de Link para luchar contra las malévolas fuerzas que amenazan al reino?",
+        "categoria": "Nintendo",
+        "imagen": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_TloZTearsOfTheKingdom_Gamepage_image1600w.jpg",
+        "precio": 80000,
+        "stock": 92
+    },
+    {
+        "id": 7,
+        "titulo": "Super Mario Odyssey",
+        "descripcion": "Explora increíbles lugares lejos del reino Champiñón al unirte a Mario y su nuevo amigo Cappy en una increíble aventura al mejor estilo trotamundos en 3D. Usa asombrosas habilidades como: el poder de capturar y controlar objetos, animales y enemigos; para conseguir energilunas necesarias para recargar la nave Odyssey y salvar a la princesa Peach de los planes de boda de Bowser.",
+        "categoria": "Nintendo",
+        "imagen": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_SuperMarioOdyssey_bannerXS.jpg",
+        "precio": 52000,
+        "stock": 43
+    },
+    {
+        "id": 8,
+        "titulo": "Myers Planters Punch",
+        "descripcion": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Nut - Almond, Blanched, Ground",
+        "descripcion": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Pasta - Fett Alfredo, Single Serve",
+        "descripcion": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 11,
+        "titulo": "Bread - Assorted Rolls",
+        "descripcion": "Mauris sit amet eros.",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 12,
+        "titulo": "Table Cloth 62x120 White",
+        "descripcion": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "categoria": "medias",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 13,
+        "titulo": "Tuna - Sushi Grade",
+        "descripcion": "Aenean sit amet justo.",
+        "categoria": "medias",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 14,
+        "titulo": "Wine - Barbera Alba Doc 2001",
+        "descripcion": "In blandit ultrices enim.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 15,
+        "titulo": "Artichoke - Hearts, Canned",
+        "descripcion": "Nullam varius.",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/ff4444/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 16,
+        "titulo": "Ham - Smoked, Bone - In",
+        "descripcion": "Cras non velit nec nisi vulputate nonummy.",
+        "categoria": "medias",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 17,
+        "titulo": "Truffle Cups - Red",
+        "descripcion": "Nulla tempus.",
+        "categoria": "remeras",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 18,
+        "titulo": "Ham - Smoked, Bone - In",
+        "descripcion": "Etiam justo.",
+        "categoria": "pantalones",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 19,
+        "titulo": "Sugar - Brown",
+        "descripcion": "Morbi non lectus.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 20,
+        "titulo": "Bread - Hot Dog Buns",
+        "descripcion": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.",
+        "categoria": "buzos",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 1500,
+        "stock": 10
+    }
+]
